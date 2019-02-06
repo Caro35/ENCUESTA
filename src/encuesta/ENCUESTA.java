@@ -24,6 +24,7 @@ public class ENCUESTA {
         int cantidad=0;
         
         // TODO code application logic here
+        System.out.println("Bienvenido!");
         System.out.println("ingrese cantidad de encuestados");
         cantidad=leer.nextInt();
         for (int i=0;i<cantidad;i++){
