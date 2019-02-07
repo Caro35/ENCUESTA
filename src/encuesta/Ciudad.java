@@ -10,5 +10,7 @@ package encuesta;
  * @author usuario25
  */
 public class Ciudad {
+    private int id;
+    
     
 }
